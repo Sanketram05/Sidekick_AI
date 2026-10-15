@@ -111,8 +111,8 @@ These are potential risks of the application's capabilities, not claims that an 
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_PROJECT_DIRECTORY>
+git clone https://github.com/Sanketram05/Sidekick_AI.git
+cd Sidekick_AI
 ```
 
 Create and activate a virtual environment:
